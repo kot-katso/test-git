@@ -1,0 +1,19 @@
+## To get the current user account 
+
+__ In mac __
+git credential-osxkeychain get
+host=github.com
+protocol=https
+
+## To delete the current user account 
+
+__ In mac __
+git credential-osxkeychain erase
+host=github.com
+protocol=https
+
+
+last account 
+
+password=bank7@Today
+username=electionfactmyanmar@gmail.com
